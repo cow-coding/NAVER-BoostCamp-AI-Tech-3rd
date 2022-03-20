@@ -17,6 +17,7 @@ def argument_setting():
     parser.add_argument("-l", required=False, help='post category link')
     parser.add_argument("-n", required=False, help='name')
     parser.add_argument("-logo", required=False, help='logo')
+    parser.add_argument("--count", required=False, default=-1, type=int)
     args = parser.parse_args()
 
     return args
@@ -73,7 +74,7 @@ def make_badges(urls, colors, name, logo):
     strs = ''
     urls.reverse()
 
-    for i in range(len(urls)):
+    for i in range(len(colors)):
         badge_link = f'https://img.shields.io/badge/{name}%20|%20{i+1}-{colors[i]}?style=flat&logo={logo.lower()}&logoColor=ffffff'
         str = f"[![]({badge_link})]({urls[i]})"
         strs += (str + ' ')
@@ -89,6 +90,8 @@ if __name__ == '__main__':
     urls, counts = get_post_count(args.l)
     print("Making gradient hex color codes...")
     # 3766AB, 0b4193
+    if args.count != -1:
+        counts = args.count
     hex_list = color_code_getter(args.s, args.e, counts)
     print("Making full badge lists...")
     strs = make_badges(urls, hex_list, args.n, args.logo)
