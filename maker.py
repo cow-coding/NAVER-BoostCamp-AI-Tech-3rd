@@ -3,6 +3,7 @@ import os
 import re
 
 from urllib.request import urlopen, Request
+from urllib import parse
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -56,8 +57,7 @@ def color_code_getter(start, end, counts):
 
 
 def get_post_count(url):
-    base_url = 'https://cow-coding.github.io'
-    req = Request(url)
+    req = Request('https://'+parse.quote(url[8:]))
     response = urlopen(req)
     page = response.read()
     bsobj = BeautifulSoup(page, 'html.parser')
