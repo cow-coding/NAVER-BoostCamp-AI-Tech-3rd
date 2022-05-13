@@ -2,10 +2,18 @@
    <img src="/images/boostcamp_logo.png"/>
 </div>
 
+**저의 부스트캠프 활동때 했던 소중한 기록들입니다.**
 **모든 포스트를 모아 보시려면 각 카테고리 제목을 눌러주세요.**  
 **배지를 누르면 순서대로 포스트를 볼 수 있습니다.**
 
+## 목차
+- [내용 정리](#내용-정리-포스팅)
+- [Tech Interview](https://github.com/cow-coding/Keep-going-tech-interview/tree/main)
+- [NLP Paper reading study](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding)
+
 ---
+
+## 내용 정리 포스팅
 
 ### [Python basics](https://cow-coding.github.io/categories/python/) : 최성철 마스터
 
@@ -31,7 +39,7 @@
 
 [![](https://img.shields.io/badge/AI%20Service%20|%201-1fb185?style=flat&logo=apachespark&logoColor=ffffff)](https://cow-coding.github.io/posts/day18_1_mllifecycle/) [![](https://img.shields.io/badge/AI%20Service%20|%202-06b192?style=flat&logo=apachespark&logoColor=ffffff)](https://cow-coding.github.io/posts/day18_2_linux/) [![](https://img.shields.io/badge/AI%20Service%20|%203-00b19e?style=flat&logo=apachespark&logoColor=ffffff)](https://cow-coding.github.io/posts/day18_docker/) [![](https://img.shields.io/badge/AI%20Service%20|%204-05b0a9?style=flat&logo=apachespark&logoColor=ffffff)](https://cow-coding.github.io/posts/day18_MLflow/) [![](https://img.shields.io/badge/AI%20Service%20|%205-1fafb1?style=flat&logo=apachespark&logoColor=ffffff)](https://cow-coding.github.io/posts/day19_1_service_model/)
 
-### [P-stage 1 : Image Classification](https://cow-coding.github.io/categories/p-stage/)
+### [P-stage 1 : Image Classification](https://cow-coding.github.io/categories/p-stage/) : 김태진 마스터
 - [Repository](https://github.com/cow-coding/boostcamp-3rd-level1-image-classification)
 
 [![](https://img.shields.io/badge/Project%20|%201-1fafb1?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day23_pstage1/) [![](https://img.shields.io/badge/Project%20|%202-00a8b4?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day24_pstage2/) [![](https://img.shields.io/badge/Project%20|%203-00a2b6?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day25_pstage3/) [![](https://img.shields.io/badge/Project%20|%204-009bb7?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day26_pstage4/) [![](https://img.shields.io/badge/Project%20|%205-0093b7?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day27_pstage5/) [![](https://img.shields.io/badge/Project%20|%206-008cb7?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day28_pstage6/) [![](https://img.shields.io/badge/Project%20|%207-0084b4?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day29_pstage9/) [![](https://img.shields.io/badge/Project%20|%208-1f7cb1?style=flat&logo=weightsandbiases&logoColor=ffffff)](https://cow-coding.github.io/posts/day31_pstage_10/)
@@ -40,10 +48,14 @@
 
 [![](https://img.shields.io/badge/RecSys%20|%201-1f7cb1?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day32_recsysbasic1/) [![](https://img.shields.io/badge/RecSys%20|%202-0378b3?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day32_recsysbasic2/) [![](https://img.shields.io/badge/RecSys%20|%203-0074b5?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day32_recsysbasic3/) [![](https://img.shields.io/badge/RecSys%20|%204-0070b6?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day32_recsysbasic4/) [![](https://img.shields.io/badge/RecSys%20|%205-006bb7?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day33_recsysbasic5/) [![](https://img.shields.io/badge/RecSys%20|%206-0067b9?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day34_recsysbasic6/) [![](https://img.shields.io/badge/RecSys%20|%207-0062b9?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day35_recsysbasic7/) [![](https://img.shields.io/badge/RecSys%20|%208-005dba?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day35_recsysbasic8/) [![](https://img.shields.io/badge/RecSys%20|%209-0058ba?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day35_recsysbasic9/) [![](https://img.shields.io/badge/RecSys%20|%2010-0053ba?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day36_recsys1/) [![](https://img.shields.io/badge/RecSys%20|%2011-004db9?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day36_recsys2/) [![](https://img.shields.io/badge/RecSys%20|%2012-0047b8?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day38_recsys3/) [![](https://img.shields.io/badge/RecSys%20|%2013-0041b6?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day38_recsys4/) [![](https://img.shields.io/badge/RecSys%20|%2014-063ab4?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day39_recsys5/) [![](https://img.shields.io/badge/RecSys%20|%2015-1f32b1?style=flat&logo=spotify&logoColor=ffffff)](https://cow-coding.github.io/posts/day40_recsys6/)
 
-### [P-stage 2 : Movie Recoomendataion]()
+### [P-stage 2 : Movie Recoomendataion]() : 이원성 마스터
 - [Repository](https://github.com/cow-coding/boostcamp-3rd-level2-movie-recommendation)
 
 ### [Deep Knowledge Tracing](https://cow-coding.github.io/categories/DKT/)
 
 ### [P-stage 3 : DKT]()
 - [Repository]()
+
+### [Product Serving]() : 변성윤 마스터
+
+### [Level 3 : Final Project]()
