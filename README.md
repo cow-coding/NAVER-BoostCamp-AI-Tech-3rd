@@ -58,4 +58,6 @@
 
 ### [Product Serving]() : 변성윤 마스터
 
+- [Special Mission 1: streamlit으로 추천 시스템 만들어 보기](https://github.com/cow-coding/NAVER-BoostCamp-AI-Tech-3rd/tree/main/streamlit-recommendation)
+
 ### [Level 3 : Final Project]()
