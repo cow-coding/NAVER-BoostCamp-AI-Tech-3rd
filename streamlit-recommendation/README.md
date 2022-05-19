@@ -18,4 +18,6 @@
 
 ## Demo Image
 
+[Demo Page](http://118.67.130.15:30001)
+
 ![](../images/img.png)
