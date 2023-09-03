@@ -62,3 +62,5 @@
 - [Special Mission 1: streamlit으로 추천 시스템 만들어 보기](https://github.com/cow-coding/NAVER-BoostCamp-AI-Tech-3rd/tree/main/streamlit-recommendation)
 
 ### [Level 3 : Final Project](https://cow-coding.github.io/categories/level-3-final-project/)
+
+- [Project Repository](https://github.com/cow-coding/Github-You-May-Also-Like)
